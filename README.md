@@ -5,4 +5,6 @@ Team Members :
 Samrudh Nelli, 
  Tushar Ranjan Verma, 
  Ishan Bala, 
- Ramakrishna Rathore, 
+ Ramakrishna Rathore.
+
+ Contact @ Team18.diy.iitkgp@gmail.com
