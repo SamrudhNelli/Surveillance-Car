@@ -1,9 +1,8 @@
 //
 // Source code for application to transmit image from ov7670 to PC via USB
 // Example for Arduino Uno/Nano
-// By Siarhei Charkes in 2015
-// http://privateblog.info 
-//
+// By Siarhei Charkes in 2015 // Working in 2023 //
+// http://privateblog.info // Use Wayback Machine to access it :) //
 
 #include <stdint.h>
 #include <avr/io.h>

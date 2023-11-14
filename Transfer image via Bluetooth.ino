@@ -1,7 +1,7 @@
 //
 // Source code for application to transmit image from ov7670 to phone via bluetooth
-// By Siarhei Charkes in 2016 
-// http://privateblog.info 
+// By Siarhei Charkes in 2016 // Working in 2023 //
+// http://privateblog.info // Use Wayback machine to access it :) //
 //
 
 #include <stdint.h>

@@ -1,6 +1,3 @@
-// DIY PROJECT // Team 18 // IIT Kharagpur //
-// Credits to : Samrudh Nelli //
-
 // Using ESP32 DEVKIT V1 //
 #define CUSTOM_SETTINGS
 #define INCLUDE_GAMEPAD_MODULE
